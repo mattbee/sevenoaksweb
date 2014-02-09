@@ -1,6 +1,6 @@
 body { background: #7F4A13; color: #FFBA72; font-family: 'Ubuntu', sans-serif; font-size: 20px; line-height: 1.4; padding: 10%; }
 
-a, a:link, a:visited, a:hover { color: #FF9426; }
+a, a:link, a:visited, a:hover { color: #FF9426; text-decoration: underline; }
 
 a:hover { color: #fff; }
 
