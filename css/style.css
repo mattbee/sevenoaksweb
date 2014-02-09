@@ -1,5 +1,9 @@
 body { background: #7F4A13; color: #FFBA72; font-family: 'Ubuntu', sans-serif; font-size: 20px; line-height: 1.4; padding: 10%; }
 
+a, a:link, a:visited, a:hover { color: #FF9426; }
+
+a:hover { color: #fff; }
+
 .logo { display: block; float: left; margin-right: 10%; width: 30%; }
 
 h2 { font-size: 40px; font-weight: 400; }
